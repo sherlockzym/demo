@@ -1,0 +1,123 @@
+*{
+	margin:0;
+	padding: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration:none;
+}
+.header
+{
+	background-color:#ececed;
+	height:173px;
+}
+.logo{
+	padding:30px;
+	text-align:center;
+}
+.nav{
+	width:670px;
+	height:45px;
+	margin:0 auto;
+	border-radius:23px;
+	background-color:white;
+}
+.nav li{
+	float: left;
+	height: 45px;
+	padding: 0 26px;
+	line-height: 45px;
+	background: url(../html/cut2.png)no-repeat right center;
+}
+.nav1 a{
+	display:inline;
+	height:42px;
+	border-bottom: 3px solid #1e50ae;
+}
+.nav li:last-child{
+	background:none;
+}
+/* banner开始 */
+.banner{
+	width:100%;
+	height:405px;
+	background:url(../html/cut3.png) no-repeat center center;
+}
+/* 服务开始 */
+.banner1{
+	height: 235px;
+	width: 682px;
+	margin:84px 439px 92px 439px ;
+	background: url(../html/cut4.png) no-repeat center center;
+	position:absolute;
+}
+.banner2{
+	margin:144px 489px 219px 489px;
+	height:45px;
+	width:585px;
+	background: url(../html/cut5.png) no-repeat center center;
+	position:absolute;
+}
+.banner3{
+	margin:225px 510px 140px 504px ;
+	height:44px;
+	width:555px;
+	background:url(../html/cut6.png) no-repeat center center;
+	position: absolute;
+}
+.serve{
+	width:1200px;
+	height:810px;
+	margin:0 auto;
+}
+.tags1{
+	text-align: center;
+	margin-top:61px ;
+	font-size: 34px ;
+}
+.tags2{
+	text-align: center;
+	margin-top:24px;
+	font-size: 30px ;
+}
+.serve1{
+	width:1200px ;
+	height:676px ;
+	
+}
+.server2{
+	width: 1200px;
+	height: 180px;
+	margin-top:233px ;
+}
+.guide1{
+	margin-left: 68px;
+	margin-top: 64px;
+	margin-right: 987px;
+	margin-bottom: 465px;
+	position: absolute;
+}
+.guide2{
+	margin-left: 372px;
+	margin-top:  64px;
+	margin-right: 681px;
+	margin-bottom: 465px;
+	position: absolute;
+	
+}
+.list1{
+	font-size:15px ;
+	padding-left: 108px;
+}
+.list2{
+	font-size: 10px;
+	padding-left:105px; 
+	color: rgb(170, 170, 170)
+}
+.list3{
+	font-size:15px;
+	padding-top:24px;
+	padding-left: 85px;
+}
